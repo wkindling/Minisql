@@ -1,0 +1,28 @@
+﻿  minisql.cpp
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\minisql.h(29): warning C4005: “CHARTYPE”: 宏重定义
+  c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\minisql.h(24): note: 参见“CHARTYPE”的前一个定义
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\catalogmanager\catalogmanager.hpp(20): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\catalogmanager\catalogmanager.hpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\catalogmanager\catalogmanager.hpp(141): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\recordmanager\recordmanager.hpp(85): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\indexmanager\indexmanager.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\indexmanager\bplustree.h(145): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\indexmanager\bplustree.h(288): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(235): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(241): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(271): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(274): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(287): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(290): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(305): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(308): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(321): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(324): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(327): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(333): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(350): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\api\api.hpp(353): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\minisql.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\indexmanager\indexmanager.hpp(39): warning C4715: “indexManager::findInsertLeafNode”: 不是所有的控件路径都返回值
+c:\users\dell\desktop\大二下\数据库系统\minisql\minisql_project\minisql\indexmanager\indexmanager.hpp(233): warning C4715: “indexManager::findDropLeafNode”: 不是所有的控件路径都返回值
+  MINISQL.vcxproj -> C:\Users\dell\Desktop\大二下\数据库系统\MINISQL\MINISQL_PROJECT\Debug\MINISQL.exe
